@@ -9,3 +9,7 @@ This game is a shooter where your gun will break and downgrade through out the g
 FPS camera and controls
 
 3d Enviroment
+
+Enemys
+
+Gun play
